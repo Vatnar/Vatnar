@@ -24,11 +24,7 @@
                     margin-top: 10px;
                 }
             </style>
-            <div class="title">
-                Pandora
-                <div class="line"></div>
-                Vatnar
-            </div>
+            <div class="title">Pandora <div class="line"></div>Vatnar </div>
         </div>
     </foreignObject>
 </svg>
