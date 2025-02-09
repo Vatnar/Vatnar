@@ -9,13 +9,12 @@
         <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" width="31" height="24" style="vertical-align: middle;"/>
     </a>
 </p>
-
+<a href="https://vatnar.github.io/">Portfolio</a>
 <ul align="center" style="list-style-type: none; padding: 0;">
     <li>Currently working on a peer-to-peer UDP audio socket project in C++</li>
     <li>Studying Bachelor in Software Engineering at UIA</li>
     <li>I enjoy programming, music, and games</li>
 </ul>
-<a href="https://vatnar.github.io/">Portfolio</a>
     
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
