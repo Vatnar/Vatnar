@@ -16,17 +16,16 @@
              alt="Email" height="30" style="margin: 0 10px;"/>
     </a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/peter-vatnar-andersson/" target="_blank" rel="noreferrer">
-    <img src="linkedin.png" alt="LinkedIn" height="30" style="margin: 0 10px;"/>
-    </a>
-    <!-- Portfolio -->
-    <a href="https://vatnar.github.io/" target="_blank" rel="noreferrer">
-        <img src="portfolio.png" alt="Portfolio" height="30" style="margin: 0 10px;"/>
-    </a>
+   <a href="https://www.linkedin.com/in/peter-vatnar-andersson/" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" height="30" style="margin: 0 10px;">
+</a>
+
+<a href="https://vatnar.github.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-%23FDB22F.svg?&logo=github&logoColor=white" alt="Portfolio" height="30" style="margin: 0 10px;">
+</a>
 </p>
 
-
-        <br><br>
+<br><br>
         
 <div align="center">
   <div align="left" style="display: inline-block; border-left: 4px solid #FDB22F; padding-left: 10px;">
