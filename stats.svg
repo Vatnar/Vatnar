@@ -1,0 +1,10 @@
+<svg fill="none" width="100%" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <div style="text-align: center;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatnar&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatnar&" alt="GitHub Streak Stats"/>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
