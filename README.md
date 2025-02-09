@@ -54,13 +54,13 @@
         <img src="https://img.shields.io/badge/C++-%23FDB22F?&logo=c%2B%2B&logoColor=white" alt="C++"/>
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank">
-        <img src="https://img.shields.io/badge/C%23-%23FDB22F?&logo=csharp&logoColor=white" alt="C#"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23FDB22F?logo=cshrp&logoColor=white" alt="C#"/>
     </a>
     <a href="https://www.python.org" target="_blank">
         <img src="https://img.shields.io/badge/Python-%23FDB22F?&logo=python&logoColor=white" alt="Python"/>
     </a>
     <a href="https://www.linux.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Linux-%23FDB22F?&logo=linux&logoColor=black" alt="Linux"/>
+        <img src="https://img.shields.io/badge/Linux-%23FDB22F?&logo=linux&logoColor=white" alt="Linux"/>
     </a>
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://img.shields.io/badge/Docker-%23FDB22F?&logo=docker&logoColor=white" alt="Docker"/>
