@@ -43,29 +43,30 @@
     
 ### <p align="center"> <b> Languages and Tools </b> </p>
 
-<p align="center"> 
+<p align="center">
     <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Git-%23F05032.svg?&logo=git&logoColor=white" alt="Git"/>
     </a>
     <a href="https://devdocs.io/c/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white" alt="C"/>
     </a>
     <a href="https://devdocs.io/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?&logo=c%2B%2B&logoColor=white" alt="C++"/>
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?&logo=csharp&logoColor=white" alt="C#"/>
     </a>
     <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Python-%233776AB.svg?&logo=python&logoColor=white" alt="Python"/>
     </a>
     <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&logo=linux&logoColor=black" alt="Linux"/>
     </a>
     <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&logo=docker&logoColor=white" alt="Docker"/>
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?&logo=gnu-bash&logoColor=white" alt="Bash"/>
     </a>
 </p>
+
