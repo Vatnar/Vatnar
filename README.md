@@ -15,9 +15,8 @@
     <li>Studying Bachelor in Software Engineering at UIA</li>
     <li>I enjoy programming, music, and games</li>
 </ul>
-[Portfolio](https://vatnar.github.io/)
-
-
+<a href="https://vatnar.github.io/">Portfolio</a>
+    
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://git-scm.com/" target="_blank">
