@@ -43,11 +43,12 @@
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
     </a>
 </p>
-
+<br>
+<br>
+<h3 align="left">Stats:</h3>
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatnar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatnar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vatnar&" alt="Streak Stats" />
 </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatnar&" alt="Streak Stats" />
-</p>
+
