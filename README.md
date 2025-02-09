@@ -15,12 +15,8 @@
     <li>Studying Bachelor in Software Engineering at UIA</li>
     <li>I enjoy programming, music, and games</li>
 </ul>
+[Portfolio](https://vatnar.github.io/)
 
-<h3 align="left">CVs:</h3>
-<ul>
-    <li><a href="https://drive.google.com/file/d/1ZME8nkw22L2PevCl_SZEL8mNk98KOBOI/view?usp=drivesdk" target="_blank">English CV</a></li>
-    <li><a href="https://drive.google.com/file/d/1WuUyN9vzR87WhJVgN0MtRr9WWoT5BSg6/view?usp=drivesdk" target="_blank">Norwegian CV</a></li>
-</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
