@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="header.svg" alt="Name Header">
+    <img src="header.svg" alt="Title">
 </h1>
 
 <h3 align="center">Hobbyist coder and student from Norway</h3>
