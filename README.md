@@ -2,21 +2,47 @@
     <img src="header.svg" alt="Title">
 </h1>
 
-<h3 align="center">Hobbyist coder and student from Norway</h3>
+<h3 align="center">Software Developer and student from Norway</h3>
 
 <p align="center">
+    <!-- Discord -->
     <a href="https://discord.com/users/532973438319591424" target="_blank" rel="noreferrer">
-        <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" width="31" height="24" style="vertical-align: middle;"/>
+        <img src="https://img.shields.io/badge/Discord-%23FDB22F.svg?&logo=discord&logoColor=white" 
+             alt="Discord" height="30" style="margin: 0 10px;"/>
     </a>
+    <!-- Email -->
+    <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Email-%23FDB22F.svg?&logo=gmail&logoColor=white" 
+             alt="Email" height="30" style="margin: 0 10px;"/>
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-%23FDB22F.svg?&logo=linkedin&logoColor=white" 
+             alt="LinkedIn" height="30" style="margin: 0 10px;"/>
+    </a>
+    <!-- Portfolio -->
+    <a href="https://vatnar.github.io/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Portfolio-%23FDB22F.svg?&logo=internetexplorer&logoColor=white" 
+             alt="Portfolio" height="30" style="margin-top: 10px;"/>
 </p>
-<a href="https://vatnar.github.io/">Portfolio</a>
-<ul align="center" style="list-style-type: none; padding: 0;">
-    <li>Currently working on a peer-to-peer UDP audio socket project in C++</li>
-    <li>Studying Bachelor in Software Engineering at UIA</li>
-    <li>I enjoy programming, music, and games</li>
-</ul>
+        <br><br>
+        
+<div align="center">
+  <div align="left" style="display: inline-block; border-left: 4px solid #FDB22F; padding-left: 10px;">
+    <b>🎓 Studying Bachelor in Software Engineering at UIA</b><br>
+    <b>🎵 I enjoy programming, music, and games</b><br>
+    <b>💻 Currently working on a peer-to-peer UDP audio socket project in C++, and an SFML game project</b>
+  </div>
+</div>
+
+
+<br>
+
+
+
     
-<h3 align="left">Languages and Tools:</h3>
+### <p align="center"> <b> Languages and Tools </b> </p>
+
 <p align="center"> 
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -43,9 +69,11 @@
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
     </a>
 </p>
+
 <br>
-<br>
-<h3 align="left">Stats:</h3>
+
+### <p align="center"> <b> Stats </b> </p>
+
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatnar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vatnar&" alt="Streak Stats" />
