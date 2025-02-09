@@ -69,14 +69,3 @@
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
     </a>
 </p>
-
-<br>
-
-### <p align="center"> <b> Stats </b> </p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatnar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vatnar&" alt="Streak Stats" />
-</p>
-
-
