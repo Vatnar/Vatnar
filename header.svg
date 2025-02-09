@@ -13,8 +13,15 @@
                 .line {
                     width: 200px; /* Adjust width */
                     height: 3px; /* Adjust thickness */
-                                        background: linear-gradient(90deg, #FD2FFC, #FC76F0, #FDB32C, #DF6040);
+                    background: linear-gradient(90deg, #FD2FFC, #FC76F0, #FDB32C, #DF6040);
                     margin: 10px auto;
+                }
+                .name {
+                    font-size: 2em; /* Smaller size */
+                    font-family: monospace;
+                    text-align: center;
+                    color: white; /* No gradient */
+                    margin-top: 10px;
                 }
             </style>
             <div class="title">
@@ -22,6 +29,7 @@
                 <div class="line"></div>
                 Vatnar
             </div>
+            <div class="name">Peter Vatnar Andersson</div>
         </div>
     </foreignObject>
 </svg>
