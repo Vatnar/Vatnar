@@ -15,9 +15,10 @@
         <img src="https://img.shields.io/badge/Email-%23FDB22F.svg?&logo=gmail&logoColor=white" 
              alt="Email" height="30" style="margin: 0 10px;"/>
     </a>
-    <!-- LinkedIn -->
-   <a href="https://www.linkedin.com/in/peter-vatnar-andersson-355b58289/" target="_blank" rel="noreferrer">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" height="30" style="margin: 0 10px;">
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/peter-vatnar-andersson-355b58289/" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%23FDB22F?logo=linkedin-white&logoColor=fff" 
+         alt="LinkedIn" height="30" style="margin: 0 10px;">
 </a>
 
 <a href="https://vatnar.github.io" target="_blank" rel="noreferrer">
