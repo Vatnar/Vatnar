@@ -20,9 +20,8 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%23FDB22F?logo=linkedin-white&logoColor=fff" 
          alt="LinkedIn" height="30" style="margin: 0 10px;">
 </a>
-
 <a href="https://vatnar.github.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-%23FDB22F.svg?&logo=github&logoColor=white" alt="Portfolio" height="30" style="margin: 0 10px;">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-%23FDB22F?logo=portfadolio-min2&logoColor=fff" alt="Portfolio" height="30" style="margin: 0 10px;">
 </a>
 </p>
 
