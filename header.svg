@@ -10,8 +10,18 @@
                     -webkit-background-clip: text;
                     -webkit-text-fill-color: transparent;
                 }
+                .line {
+                    width: 200px; /* Adjust width */
+                    height: 3px; /* Adjust thickness */
+                    background: linear-gradient(90deg, #00F1DC, #5673F1, #6744F1, #FE00FF);
+                    margin: 10px auto;
+                }
             </style>
-            <div class="title">Pandora  Vatnar</div>
+            <div class="title">
+                Pandora
+                <div class="line"></div>
+                Vatnar
+            </div>
         </div>
     </foreignObject>
 </svg>
