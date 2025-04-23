@@ -31,7 +31,7 @@
   <div align="left" style="display: inline-block; border-left: 4px solid #FDB22F; padding-left: 10px;">
     <b>🎓 Studying Bachelor in Software Engineering at UIA</b><br>
     <b>🎵 I enjoy programming, music, and games</b><br>
-    <b>💻 Currently working on a peer-to-peer UDP audio socket project in C++, and an SFML game project</b>
+    <b>💻 Currently working on a peer-to-peer UDP audio socket project in C++, and a shader preview editor </b>
   </div>
 </div>
 
