@@ -30,8 +30,8 @@
 <div align="center">
   <div align="left" style="display: inline-block; border-left: 4px solid #FDB22F; padding-left: 10px;">
     <b>🎓 Studying Bachelor in Software Engineering at UIA</b><br>
-    <b>🎵 I enjoy programming, music and sports
-    <b>💻Currently learning rust 🦀 and a shader preview editor </b>
+    <b>🎵 I enjoy programming, music and sports <br>
+    <b>💻Currently learning rust 🦀 and making a shader preview editor </b>
   </div>
 </div>
 
